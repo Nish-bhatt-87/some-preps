@@ -13,6 +13,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="RecursionExploration" options="--add-modules java.base" />
+      <module name="some-preps" options="--add-modules java.base" />
     </option>
   </component>
 </project>
