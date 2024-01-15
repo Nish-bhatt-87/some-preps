@@ -6,6 +6,7 @@ public class MyCustomQueueTest {
         queue.enqueue(10);
         queue.enqueue(20);
         queue.enqueue(30);
+        queue.enqueue(888);
 
         System.out.println(queue.dequeue() + " dequeued from the queue");
         System.out.println(queue.dequeue() + " dequeued from the queue");
