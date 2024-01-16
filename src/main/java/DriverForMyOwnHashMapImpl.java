@@ -16,9 +16,9 @@ public class DriverForMyOwnHashMapImpl {
         System.out.println(myHashMap);
 
         System.out.println("---------------------------------------------");
-        System.out.println(myHashMap.get("2"));
+        System.out.println(myHashMap.get("3"));
 
-        System.out.println(myHashMap.remove("2"));
+        System.out.println(myHashMap.remove("3"));
         System.out.println("---------------------------------------------");
         System.out.println(myHashMap);
     }
